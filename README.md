@@ -106,4 +106,4 @@ Este projeto foi desenvolvido com o suporte das seguintes empresas:
 
 ---
 
-Desenvolvido por [Danilo C. Macedo](https://github.com/dcmacedo).
+Desenvolvido por [Thiago Pessoa](https://github.com/thidspessoa).
