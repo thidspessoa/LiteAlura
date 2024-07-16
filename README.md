@@ -34,7 +34,7 @@ Literalura é um Catálogo de Livros interativo desenvolvido em Java. O objetivo
 3. Clone este repositório para o seu computador:
 
     ```bash
-    git clone https://github.com/dcmacedo/literalura.git
+    git clone https://github.com/thidspessoa/LiteAlura.git
     ```
 
 4. Navegue até o diretório do projeto:
